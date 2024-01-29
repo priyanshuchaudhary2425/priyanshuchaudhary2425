@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![HeyHelloThereGIF](https://github.com/priyanshuchaudhary2425/priyanshuchaudhary2425/assets/118632700/462bf6e5-f793-48b9-bd53-6bff70e68018)
+
 
 <!--
 **priyanshuchaudhary2425/priyanshuchaudhary2425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
