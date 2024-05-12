@@ -1,6 +1,4 @@
-![SupermanOfGIF](https://github.com/priyanshuchaudhary2425/priyanshuchaudhary2425/assets/118632700/d3c16725-f5ca-4aad-a5c6-86df8e2d3eb5)
-
-
+![SupermanOfGIF](https://raw.githubusercontent.com/priyanshuchaudhary2425/priyanshuchaudhary2425/main/assets/118632700/d3c16725-f5ca-4aad-a5c6-86df8e2d3eb5.gif)
 
 I'm Priyanshu, a passionate developer with experience in various technologies. Here's a glimpse of my tech stack:
 
