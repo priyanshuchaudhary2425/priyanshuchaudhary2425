@@ -1,4 +1,4 @@
-### Hey there! 👋
+![HeyHelloThereGIF](https://github.com/priyanshuchaudhary2425/priyanshuchaudhary2425/assets/118632700/462bf6e5-f793-48b9-bd53-6bff70e68018)
 
 I'm Priyanshu, a passionate developer with experience in various technologies. Here's a glimpse of my tech stack:
 
