@@ -1,198 +1,81 @@
 <div align="center">
 
-<!-- Terminal window -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=header&text=&fontSize=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=6"/>
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   ██████╗ ██████╗ ██╗██╗   ██╗ █████╗ ███╗  ██╗███████╗██╗  ██╗   │
-│   ██╔══██╗██╔══██╗██║╚██╗ ██╔╝██╔══██╗████╗ ██║██╔════╝██║  ██║   │
-│   ██████╔╝██████╔╝██║ ╚████╔╝ ███████║██╔██╗██║███████╗███████║   │
-│   ██╔═══╝ ██╔══██╗██║  ╚██╔╝  ██╔══██║██║╚████║╚════██║██╔══██║   │
-│   ██║     ██║  ██║██║   ██║   ██║  ██║██║ ╚███║███████║██║  ██║   │
-│   ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚══╝╚══════╝╚═╝  ╚═╝  │
-│                                                                     │
-│              > Full Stack Developer  &  ML Tinkerer_               │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<a href="https://craft-cv.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=4000&pause=2000&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=PRIYANSHU+CHAUDHARY" alt="Priyanshu Chaudhary"/>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+products+that+real+people+use...;React+%7C+Node.js+%7C+PostgreSQL+%7C+Redis;170%2B+users+on+CraftCV+%E2%80%94+and+counting)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=30&lines=Full+Stack+Developer+%7C+ML+Tinkerer;170%2B+users+on+CraftCV+and+counting" alt="role"/>
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=6"/>
 
----
+<br/>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-chaudhary-a61261318)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-chaudhary-a61261318)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Priyanshuchaudhary2425)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshuc2425@gmail.com)
-[![CraftCV](https://img.shields.io/badge/CraftCV-LIVE-00ff41?style=for-the-badge&logo=vercel&logoColor=black)](https://craft-cv.vercel.app)
+[![CraftCV](https://img.shields.io/badge/CraftCV-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://craft-cv.vercel.app)
 
 </div>
 
 ---
 
-## `~ $ whoami`
+### ABOUT
 
-```js
-const priyanshu = {
-  role     : "Full Stack Developer",
-  location : "India 🇮🇳  →  open to remote",
-  focus    : ["backend systems", "scalable APIs", "product building"],
-
-  stack    : {
-    frontend : ["React.js", "HTML5", "CSS3", "Bootstrap"],
-    backend  : ["Node.js", "Express.js", "REST APIs", "Google OAuth 2.0"],
-    database : ["PostgreSQL", "Redis", "Prisma", "SQL optimisation"],
-    ml_ai    : ["HuggingFace Transformers", "CNNs", "NLP", "fine-tuning LLMs"],
-    langs    : ["JavaScript (ES6+)", "Python", "C", "C++"],
-    tools    : ["Git", "Vercel", "Postman", "VS Code"],
-  },
-
-  shipped  : [
-    { name: "CraftCV",   users: "170+",       status: "live" },
-    { name: "FeeTracker",users: "production", status: "live" },
-    { name: "PayFlow",   users: "soon",       status: "building" },
-  ],
-
-  fun_fact : "1647 rapid FIDE chess rating — pattern recognition is pattern recognition",
-  status   : "open to work 👀",
-};
-```
+Full stack developer from India, building backend systems and scalable APIs. I like turning ideas into products people actually use — CraftCV already has 170+ users. I also tinker with ML on the side: fine-tuning LLMs, NLP, and computer vision. Off-screen, I play chess at a 1647 rapid FIDE rating.
 
 ---
 
-## `~ $ ls ./projects`
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 [CraftCV](https://craft-cv.vercel.app)
-```
-Stack  → React · Node.js · Gemini API
-Users  → 170+ real users
-Status → LIVE
-```
-AI-powered resume & cover letter generator.
-Enter your details, get job-targeted content.
-Built, shipped, used by real people.
-
-</td>
-<td width="50%">
-
-### 📊 [FeeTracker](https://feetracker.vercel.app)
-```
-Stack  → React · Node.js · PostgreSQL
-Auth   → Google OAuth 2.0
-Status → LIVE
-```
-Fee management dashboard for tutors.
-Multi-batch, multi-student, passwordless login.
-Designed for real workflow, not demo.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💳 PayFlow *(launching soon)*
-```
-Stack  → React · Node.js · PostgreSQL
-Pay    → Razorpay (KYC in progress)
-Status → BUILDING
-```
-Payment tracking & transaction management.
-Role-based access. Optimised DB design.
-Production-grade backend architecture.
-
-</td>
-<td width="50%">
-
-### 🧠 ML Models on HuggingFace
-```
-Models     → 8 published
-Types      → classification, NLP, translation
-Fine-tuned → LLaMA, BERT-variants
-```
-ScamGuard · MoodMeter · Sumx · BrainBolt
-WordFly · EmotiNet · AI Text Detector
-[→ view all models](https://huggingface.co/Priyanshuchaudhary2425)
-
-</td>
-</tr>
-</table>
-
----
-
-## `~ $ cat tech_stack.txt`
-
-<div align="center">
+### SKILLS
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **ML / AI**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## `~ $ git log --oneline`
+### PROJECTS
 
-```
-a3f92c1  feat: shipped CraftCV — 170+ users and counting
-b1d45e7  feat: launched FeeTracker with Google OAuth + PostgreSQL
-c8a21f0  feat: delivered 5 client websites — all still live
-d4b99e2  feat: published 8 ML models on HuggingFace
-e7c33a1  wip:  PayFlow — waiting on Razorpay KYC, almost there
-f2d88b4  chore: still learning, still building, still shipping
-```
+**[CraftCV](https://craft-cv.vercel.app)** — AI resume and cover letter generator. React, Node.js, Gemini API. 170+ users, live.
+
+**[FeeTracker](https://feetracker.vercel.app)** — Fee management dashboard for tutors. React, Node.js, PostgreSQL, Google OAuth. Live.
+
+**PayFlow** — Payment tracking and transaction management. React, Node.js, PostgreSQL, Razorpay. Building, KYC in progress.
+
+**ML Models** — 8 models published on [HuggingFace](https://huggingface.co/Priyanshuchaudhary2425): classification, NLP, translation, fine-tuned LLaMA and BERT variants.
 
 ---
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────┐
-│  > currently:  open to work              │
-│  > email:      priyanshuc2425@gmail.com  │
-│  > chess:      1647 rapid FIDE ♟         │
-│  > motto:      ship it. get users.       │
-└──────────────────────────────────────────┘
-```
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshuchaudhary2425&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=priyanshuchaudhary2425&color=00ff41&style=flat-square&label=profile+views)
+priyanshuc2425@gmail.com — open to work
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=6"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=80&section=footer"/>
